@@ -1,2 +1,2 @@
 # SdeSheetChallenge2023
-Practicing c++ leetcode questions
+Practicing DSA in C++ from Leetcode
